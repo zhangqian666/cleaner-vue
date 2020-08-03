@@ -1,8 +1,9 @@
 module.exports = {
-    baseUrl: './',
+    publicPath: './',
     assetsDir: 'static',
     productionSourceMap: false,
-    // devServer: {
+    devServer: {
+        port:9000,
     //     proxy: {
     //         '/api':{
     //             target:'http://jsonplaceholder.typicode.com',
@@ -12,5 +13,5 @@ module.exports = {
     //             }
     //         }
     //     }
-    // }
+    }
 }

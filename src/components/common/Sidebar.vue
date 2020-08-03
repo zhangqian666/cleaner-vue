@@ -80,7 +80,7 @@ export default {
                     icon: 'el-icon-lx-calendar',
                     index: 'accountManageTable',
                     title: '台账管理'
-                }
+                },
                 // ,
                 // {
                 //     icon: 'el-icon-lx-copy',
@@ -125,7 +125,7 @@ export default {
                 //     icon: 'el-icon-pie-chart',
                 //     index: 'charts',
                 //     title: 'schart图表'
-                // },
+                // }
                 // {
                 //     icon: 'el-icon-rank',
                 //     index: '6',
