@@ -1,0 +1,64 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "北京物资学院1号区域",
+            "money": 123,
+            "address": "第1，2宿舍楼",
+            "state": "运行",
+            "manager" : "李万三",
+            "date": "2019-11-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 2,
+            "name": "北京物资学院2号区域",
+            "money": 456,
+            "address": "第4，5宿舍楼",
+            "state": "运行",
+            "manager" : "张云",
+            "date": "2019-10-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 3,
+            "name": "北京物资学院3号区域",
+            "money": 789,
+            "address": "第7，8，9宿舍楼",
+            "state": "关闭",
+            "manager" : "孙志刚",
+            "date": "2019-11-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 4,
+            "name": "北京物资学院4号区域",
+            "money": 1011,
+            "address": "第1，2办公楼",
+            "state": "运行",
+            "manager" : "孙志刚",
+            "date": "2019-10-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        },
+        {
+            "id": 5,
+            "name": "北京物资学院5号区域",
+            "money": 1011,
+            "address": "第3，5，6教学楼",
+            "state": "运行",
+            "manager" : "张云",
+            "date": "2019-10-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        },
+        {
+            "id": 6,
+            "name": "北京物资学院6号区域",
+            "money": 1011,
+            "address": "第1，2行政楼",
+            "state": "关闭",
+            "manager" : "周航",
+            "date": "2019-10-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        }
+    ],
+    "pageTotal": 6
+}

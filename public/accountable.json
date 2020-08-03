@@ -1,0 +1,100 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "1号垃圾桶",
+            "money": 123,
+            "address": "北京物资学院第一宿舍楼",
+            "areaid" : 1,
+            "dataAll" : 235,
+            "dataChange" : "增加20%",
+            "state": "运行",
+            "date": "2019-11-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 2,
+            "name": "2号垃圾桶",
+            "money": 456,
+            "address": "北京物资学院第一宿舍楼",
+            "areaid" : 2,
+            "dataAll" : 254,
+            "dataChange" : "减少40%",
+            "state": "运行",
+            "date": "2019-10-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 3,
+            "name": "3号垃圾桶",
+            "money": 789,
+            "address": "北京物资学院第二宿舍楼",
+            "areaid" : 2,
+            "dataAll" : 153,
+            "dataChange" : "持平",
+            "state": "关闭",
+            "date": "2019-11-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 4,
+            "name": "4号垃圾桶",
+            "money": 1011,
+            "address": "北京物资学院第二宿舍楼",
+            "areaid" : 1,
+            "dataAll" : 315,
+            "dataChange" : "增加40%",
+            "state": "运行",
+            "date": "2019-10-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        },
+        {
+            "id": 5,
+            "name": "5号垃圾桶",
+            "money": 123,
+            "address": "北京物资学院第一宿舍楼",
+            "areaid" : 1,
+            "dataAll" : 235,
+            "dataChange" : "增加20%",
+            "state": "运行",
+            "date": "2019-11-1",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 6,
+            "name": "6号垃圾桶",
+            "money": 456,
+            "address": "北京物资学院第一宿舍楼",
+            "areaid" : 2,
+            "dataAll" : 254,
+            "dataChange" : "减少40%",
+            "state": "运行",
+            "date": "2019-10-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 7,
+            "name": "7号垃圾桶",
+            "money": 789,
+            "address": "北京物资学院第二宿舍楼",
+            "areaid" : 2,
+            "dataAll" : 153,
+            "dataChange" : "持平",
+            "state": "关闭",
+            "date": "2019-11-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 8,
+            "name": "8号垃圾桶",
+            "money": 1011,
+            "address": "北京物资学院第二宿舍楼",
+            "areaid" : 1,
+            "dataAll" : 315,
+            "dataChange" : "增加40%",
+            "state": "运行",
+            "date": "2019-10-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        }
+    ],
+    "pageTotal": 8
+}
