@@ -21,7 +21,7 @@
                 <div class="login-btn">
                     <el-button type="primary" @click="submitForm()">登录</el-button>
                 </div>
-                <p class="login-tips">所属清洁卫士公司</p>
+                <p class="login-tips">所属北京拔啷拔啷科技有限公司</p>
             </el-form>
         </div>
     </div>
